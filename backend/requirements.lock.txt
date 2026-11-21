@@ -8,7 +8,7 @@ billiard==4.2.4
 boolean.py==5.0
 CacheControl==0.14.4
 celery==5.6.3
-certifi==2026.7.22
+certifi==2026.11.20
 cffi==2.1.0
 charset-normalizer==3.4.9
 click==8.4.2
@@ -22,7 +22,7 @@ cycler==0.12.1
 cyclonedx-python-lib==11.11.0
 defusedxml==0.7.1
 fastapi==0.139.2
-filelock==3.32.0
+filelock==4.2.12
 fonttools==4.63.0
 fsspec==2026.6.0
 h11==0.16.0
@@ -53,7 +53,7 @@ opencv-python-headless==5.0.0.93
 packageurl-python==0.17.6
 packaging==26.2
 pathspec==1.1.1
-pillow==12.3.0
+pillow==13.0.0
 pip-api==0.0.34
 pip-requirements-parser==32.0.1
 pip_audit==2.10.1
@@ -81,7 +81,7 @@ redis==6.4.0
 requests==2.34.2
 rich==15.0.0
 ruff==0.15.22
-setuptools==83.0.0
+setuptools==84.2.1
 six==1.17.0
 sortedcontainers==2.4.0
 SQLAlchemy==2.0.51
@@ -97,7 +97,7 @@ tzdata==2026.3
 tzlocal==5.4.4
 ultralytics-opencv-headless==8.4.104
 ultralytics-thop==2.0.20
-urllib3==2.7.0
+urllib3==2.8.0
 uvicorn==0.51.0
 uvloop==0.22.1
 vine==5.1.0
