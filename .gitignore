@@ -59,3 +59,16 @@ backups/
 docs/demo-source.*
 docs/video-detection-source.*
 docs/live-camera-detection-source.*
+
+# Redis snapshot
+dump.rdb
+
+# Runtime logs
+*.log
+
+# Windows batch launchers
+*.bat
+
+# IDE
+.vscode/
+
